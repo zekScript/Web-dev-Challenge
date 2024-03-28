@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66057a2969cd2dbdea36e9d4"
+  },
+  "Name": "Rohit",
+  "Age": 21,
+  "Gender": "Male",
+  "Dept": "CS"
+},
+{
+  "_id": {
+    "$oid": "66057a2969cd2dbdea36e9d5"
+  },
+  "Name": "Vivek",
+  "Age": 19,
+  "Gender": "Male",
+  "Dept": "BBA"
+},
+{
+  "_id": {
+    "$oid": "66057a2969cd2dbdea36e9d6"
+  },
+  "Name": "Rohit",
+  "Age": 21,
+  "Gender": "Male",
+  "Dept": "HIS"
+},
+{
+  "_id": {
+    "$oid": "66057a2969cd2dbdea36e9d7"
+  },
+  "Name": "Rohit",
+  "Age": 21,
+  "Gender": "Male",
+  "Dept": "CS"
+}]
